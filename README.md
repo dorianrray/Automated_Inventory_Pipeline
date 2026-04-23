@@ -14,3 +14,6 @@ python runs the "cleaning/loading" script to populate all tables ->
 SQL views are pulled from the database into Metabase to visualize data.
 
 Streamlit form takes Xcel sheet, but also has a live form that allows new beers to be added and inventory for existing or new beers to be updated. 
+
+ANALYTICS:
+Pleasant auxiliary benefits include a range of analytics. From volume of beer consumed to types of beer over time, analytics can help inform the owner what beers are popular, which ones to double down on, and how time/season affect consumption of certain types, to say the least. Some screenshots are attached to demonstrate.
